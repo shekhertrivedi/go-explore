@@ -1,0 +1,4 @@
+package: github.com/ContinuumLLC/platform-partner-service/src
+import:
+- package: github.com/gorilla/mux
+  version: ^1.6.1
